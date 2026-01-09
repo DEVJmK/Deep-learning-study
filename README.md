@@ -55,8 +55,8 @@ GitHub Archive (+ optional YouTube)
 | 요일 | 활동 내용 | 비고 |
 | :---: | :--- | :--- |
 | **월 ~ 수** | **Individual Study**<br>- 강의 수강 및 교재 읽기<br>- 개념 정리 초안(Draft) 작성 | 개별 학습 |
-| **목 ~ 일** | **Group Study**<br>- 심화 조사 및 자료 정리<br>- 슬라이드 & 코드 완성 | 팀 학습 |
-| **주말** | **Main Seminar**<br>- 발표 + Q&A + 피드백 | 메인 세미나 |
+| **목 ~ 금** | **Group Study**<br>- 심화 조사 및 자료 정리<br>- 슬라이드 & 코드 완성 | 팀 학습 |
+| **토** | **Main Seminar**<br>- 발표 + Q&A + 피드백 | 메인 세미나 |
 
 ---
 
