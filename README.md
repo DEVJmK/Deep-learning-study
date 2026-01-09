@@ -87,8 +87,8 @@ GitHub Archive (+ optional YouTube)
 
 | Name | Role | GitHub |
 | :--- | :--- | :--- |
-| **Member1** | Presenter / Developer | [@김상현](https://github.com/ddanghyni) |
-| **Member2** | Presenter / Developer | [@정민교](https://github.com/username) |
+| **Member1** | Presenter | [@김상현](https://github.com/ddanghyni) |
+| **Member2** | Presenter | [@정민교](https://github.com/username) |
 
 ---
 
