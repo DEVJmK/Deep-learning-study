@@ -1,6 +1,6 @@
 
 
-# 🧠 Deep Learning & PyTorch Study & commit test ㄱㄱ
+# 🧠 Deep Learning & PyTorch Study
 
 <p align="center">
   <img src="https://img.shields.io/badge/Study-Deep%20Learning-blue?style=for-the-badge&logo=pytorch">
