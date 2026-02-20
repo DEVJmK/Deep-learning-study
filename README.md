@@ -69,8 +69,8 @@ GitHub Archive (+ optional YouTube)
 | **1** | 01.12 ~ 01.18 | Foundations of Deep Learning | 1 |
 | **2** | 01.19 ~ 01.25 | Neuron Modeling & Deep Feedforward Networks | 2, 3 |
 | **3** | 01.26 ~ 02.01 | Optimization | 4 |
-| **4** | 02.02 ~ 02.08 | Regularization | 5 |
-| **5** | 02.09 ~ 02.15 | Convolutional Neural Nets (Part 1) | 6 |
+| **4** | 02.16 ~ 02.20 | Regularization | 5 |
+| **5** | 02.23 ~ 02.27 | Convolutional Neural Nets (Part 1) | 6 |
 | **6** | 02.16 ~ 02.22 | Convolutional Neural Nets (Part 2) | 7 |
 | **7** | 02.23 ~ 03.01 | The Art of Neural Net Training | 8 |
 | **8** | 03.02 ~ 03.08 | CNN Architectures | 9 |
